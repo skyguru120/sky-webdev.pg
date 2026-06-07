@@ -47,4 +47,4 @@ Tech:
 - MongoDB
 
 Repository:
-https://github.com/sky-webdev.pg/ecommerce
+https://github.com/sky-webdev.pg
