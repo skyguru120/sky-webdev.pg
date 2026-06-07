@@ -4,7 +4,7 @@ Full Stack Developer passionate about building modern web applications.
 
 - Currently learning Cloud Architecture
 - Working with React, Node.js, TypeScript
-- Reach me: john@example.com
+- Reach me: skyguru120@gmail.com
 ## Tech Stack
 
 ### Frontend
