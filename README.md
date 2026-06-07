@@ -1,4 +1,4 @@
-# Hi I'm SKy-webdev.pg
+# Hi I'm Sky-webdev.pg
 
 Hi, my name’s Kitade and I’m a passionate Senior Full Stack Software Developer  having an experience of building multiple applications with .Net / Node.js / JavaScript / Python. Lately I have been involved in several projects in AWS and other tools such as CI/CD to enable other developers to deliver their products in a efficient and reliable manner. 
 
